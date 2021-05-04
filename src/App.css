@@ -84,6 +84,7 @@ button {
 	font-weight: 700;
 	transition: 0.2s;
 	background: linear-gradient(271.15deg, #fe904b 7.64%, #fb724c 90.68%);
+	user-select: none;
 }
 
 button:hover {
